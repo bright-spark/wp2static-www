@@ -8,6 +8,6 @@ Thanks for applying to join the team at WP2Static!
 
 We've been there, applying for jobs and waiting expectantly.
 
-Plesse don't hesitate to follow-up with us to see how your application's going.
+Plesse don't hesitate to follow-up with us to see how your application is going.
 
 [Contact us](/contact/)
