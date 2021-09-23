@@ -31,7 +31,7 @@ Buy WP2Static's core plugin, with all add-ons for just US$100.
 </button>
 {{< /rawhtml >}}
 
-WP2Static Bundle 7.1.6 contains the following:
+WP2Static Bundle 7.1.7 contains the following:
 
  - **WP2Static core 7.1.7** (*MD5: 9935068259fe4d88487efb52fe5e9f6a*)
  - **WP2Static Zip Deployment Addon 1.0.1** (*MD5: 2328f9defa1780d834428eaa0897b20b*)
