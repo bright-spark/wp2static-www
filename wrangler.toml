@@ -1,0 +1,11 @@
+account_id = "changedinaction"
+name = "workers-www-wp2static"
+type = "webpack"
+route = "wp2static.com/*"
+workers_dev = false
+zone_id = "changedinaction"
+compatibility_date = "2021-09-23"
+
+[site]
+bucket = "public"
+entry-point = "workers-site"
