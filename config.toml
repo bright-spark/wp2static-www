@@ -61,8 +61,3 @@ title404 = "Nothing's here!"
   home = ["HTML", "RSS"]
   search = ["HTML", "JSON"]
 
-[[deployment.targets]]
-# An arbitrary name for this target.
-name = "s3cf"
-URL = "s3://wp2static-www?region=us-east-1"
-cloudFrontDistributionID = "E1FB46KUMJ1MQM"
