@@ -5,7 +5,7 @@ slug: jobs
 weight: 50
 ---
 
-WP2Static offers flexible workflows for static site generation, including fully automated workflows you can setup via the UI. These utlize a *Job Queue*, to which we can manually or automatically add any or all of these Job types: *detect*, *crawl*, *post_process* and *deploy*.
+WP2Static offers flexible workflows for static site generation, including fully automated workflows you can setup via the UI. These utilize a *Job Queue*, to which we can manually or automatically add any or all of these Job types: *detect*, *crawl*, *post_process* and *deploy*.
 
 For workflows you want to control more from the command line/external scripts, see our [WP-CLI docs](/developers/wp-cli).
 
