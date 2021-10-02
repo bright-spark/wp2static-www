@@ -13,3 +13,9 @@ Generate static WordPress sites with [Leon Stafford](https://ljs.dev)'s open sou
 
 Strattic is an end-to-end managed WordPress to static publishing and hosting platform. Leon has recently joined the expert team at Strattic, building a fully automated, end-to-end solution for secure and performant WordPress hosting. [Try it free for 30 days](https://app.strattic.com/signup?utm_campaign=WP2Static&utm_source=WP2&utm_medium=link&utm_content=trail), no credit card required.
 
+
+{{< rawhtml >}}
+
+<script src="https://www.socialintents.com/api/socialintents.1.3.js#2c9faa357c346a6c017c3f4278d80e0d" async="async"></script>
+
+{{< /rawhtml >}}
