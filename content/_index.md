@@ -15,6 +15,11 @@ Strattic is an end-to-end managed WordPress to static publishing and hosting pla
 
 
 {{< rawhtml >}}
+<style>
+.si-group * {
+  color: black;
+}
+</style>
 
 <script src="https://www.socialintents.com/api/socialintents.1.3.js#2c9faa357c346a6c017c3f4278d80e0d" async="async"></script>
 
