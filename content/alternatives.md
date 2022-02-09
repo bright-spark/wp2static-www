@@ -36,7 +36,7 @@ I like to think WP2Static has the best all-round solution out there, but everyon
 
  - [Strattic](https://www.strattic.com)
 
-  Similar to Shifter and HardyPress, Strattic is a platform for your to host your WordPress, offering some nice features for generating a static site and dealing with forms, search, etc. They've just raised a massive amount of VC funding and built a team including some big names in PHP, so exciting to see what products/services they release. With their noticeable funding, hopefully more WordPress users and industry people will learn about this whole WordPress to static site niche!
+Strattic is an end-to-end managed WordPress to static publishing and hosting platform. Leon has recently joined the expert team at Strattic, building a fully automated, end-to-end solution for secure and performant WordPress hosting. [Try it free for 30 days](https://app.strattic.com/signup?utm_campaign=WP2Static&utm_source=WP2&utm_medium=link&utm_content=trail), no credit card required.
  
  - [SiteSucker](https://ricks-apps.com/osx/sitesucker)
 
