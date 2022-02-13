@@ -1,10 +1,10 @@
 ---
 ---
 
-Generate static WordPress sites with [Leon Stafford](https://ljs.dev)'s open source plugin.
+Generate static WordPress sites with an open source plugin.
 
  - UI or [command line](/developers/wp-cli/) generation and deployment
- - Bundled with [Lokl](https://lokl.dev) or you can [buy a zip](/download) to install on your own server
+ - Bundled with [Lokl](https://lokl.dev) or you can [download a zip](/download) to install on your own server
  - On [GitHub](https://github.com/leonstafford/wp2static) and [Packagist](https://packagist.org/packages/leonstafford/wp2static)
  - Deploy to [Cloudflare](https://cloudflare.com), [AWS S3 + CloudFront](https://aws.amazon.com/cloudfront/), [Vercel](https://vercel.com) &amp; more
 
